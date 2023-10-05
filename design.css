@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+
+.head{
+    color: rgb(153, 98, 16);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list{
+    color: rgb(0, 0, 0);
+}
+
+.res{
+    text-align: center;
+}
